@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Shopping Market</string>
+    <string name="StoreName">TODO</string>
+    <string name="StMessage">TextView</string>
+    <string name="app_slogan">Encuentra, Descrubre, Escoge y Compra Todo En Linea</string>
+    <string name="LoginButton">Ingresar</string>
+    <string name="text_or">ó</string>
+    <string name="phone_number">Número de Teléfono</string>
+    <string name="register_alert">REGISTRO DE NUEVA CUENTA</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="signUp_Button">Registrar Usuario</string>
+
+</resources>

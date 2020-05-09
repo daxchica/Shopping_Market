@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332793768680",
+    "firebase_url": "https://shoppingmarket-1e6b8.firebaseio.com",
+    "project_id": "shoppingmarket-1e6b8",
+    "storage_bucket": "shoppingmarket-1e6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332793768680:android:692ac0299a4b0b8cb8775d",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332793768680-4cb0cuks3i5tbksvjeg9n86hpcdtq3bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingmarket",
+            "certificate_hash": "81fdd44d9f57e6fc1b65fa34b1e52ab5da1020a8"
+          }
+        },
+        {
+          "client_id": "332793768680-r363q02o1i35d2unii9dp2n7k9li6ur3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC020bDqbKbkbZVpv3vA65IZuHfUpAJ748"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332793768680-r363q02o1i35d2unii9dp2n7k9li6ur3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
